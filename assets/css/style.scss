@@ -3,12 +3,12 @@
 ---
 
 // Colors
-$primary: #{{ site.config.color.primary }};
-$secondary: #{{ site.color.secondary }};
+$primary: #{{ site.colour.primary }};
+$secondary: #{{ site.colour.secondary }};
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #{{ site.color.tertiary }};
-$steel: #{{ site.color.text }};
+$white-offset: #{{ site.colour.tertiary }};
+$steel: #{{ site.colour.text }};
 
 // Links
 $link-color: $primary;
