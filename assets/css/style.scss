@@ -3,7 +3,7 @@
 ---
 
 // Colors
-$primary: #{{ site.color.primary }};
+$primary: #{{ site.config.color.primary }};
 $secondary: #{{ site.color.secondary }};
 $black: #2f2f41;
 $white: #ffffff;
