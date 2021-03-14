@@ -33,3 +33,9 @@ sass:
   indentWidth: 4
   style: compact
   precision: 10
+
+colour:
+  primary: "E5261F"
+  secondary: "f88379"
+  tertiary: "fff6f8"
+  text: "5C5A5A"
